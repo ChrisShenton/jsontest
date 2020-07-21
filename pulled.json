@@ -1,0 +1,23 @@
+{
+  "Status": "success",
+  "data": [{
+      "PatientName": "KEITH",
+      "PatientSurname": "FERRAR",
+      "PatientSex": "Male",
+      "PatientDateOfBirth": 41848,
+      "EpisodeNumber": "W200400017:5",
+      "DoctorAttending": "QO Van Castricum",
+      "EpisodeNotes": "carla 24/08/2018 09:25:39\ntest\n\ncarla 24/08/2018 09:16:42\r\nCarla test\r\n\r\n-1068.79056"
+    },
+    {
+      "PatientName": "LUKAS MARTINUS",
+      "PatientSurname": "DU PLESSIS",
+      "PatientSex": "Male",
+      "PatientDateOfBirth": 41243,
+      "EpisodeNumber": "W200407319:11",
+      "DoctorAttending": "J Dry",
+      "EpisodeNotes": "Bad Debtor"
+    }
+
+  ]
+}
